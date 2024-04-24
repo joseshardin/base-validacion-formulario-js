@@ -1,11 +1,11 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyDEv6861xFadtvq1oLz2Wb5B3sOvCUSDe4",
+  apiKey: "xxxxxx",
   authDomain: "datos-de-formulario.firebaseapp.com",
   projectId: "datos-de-formulario",
   storageBucket: "datos-de-formulario.appspot.com",
   messagingSenderId: "1052493048276",
-  appId: "1:1052493048276:web:43cfaba8d3ca53c2aace41",
-  measurementId: "G-VT5JTNFKY9"
+  appId: "1:1052493048276:web:xxxxxx",
+  measurementId: "G-xxxxx"
 };
 
 // Initialize Firebase
